@@ -1,3 +1,6 @@
 [submodule "hw"]
 	path = hw
 	url = git@github.com:bendikhusa/frat-hw.git
+[submodule "sw"]
+	path = sw
+	url = git@github.com:einoj/muskrat.git
